@@ -9,3 +9,5 @@ Open your command prompt in your downloads folder and run otree zipserver.
 Open your browser to http://localhost:8000/ and play your game.
 
 To stop the server, press Control + C at your command line.
+
+Please email r.fakoya-brooks@ucl.ac.uk or reubenf.brooks@gmail.com for any help with regards to hosting or if there are operating errors
